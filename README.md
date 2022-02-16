@@ -19,18 +19,20 @@ Choose the x,y,z - axis movement distance(meters).
 
 
 ### Step 3:
+Give ep_chasis.move to move straight
 
 
 
 
 ### Step 4:
-
+Give ep_chasis.drive to get circular motion.
 
 
 ### Step 5:
+Give ep_chasis.move to move straight
 
 ### Step 6:
-
+Give ep_chasis.drive to get circular motion.
 ## Program
 ~~~
 from robomaster import robot
