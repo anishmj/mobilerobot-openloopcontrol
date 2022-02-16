@@ -119,13 +119,11 @@ ep_robot.close()
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+## Insert image here
+![output](final.jpeg)
+![output](fi.jpeg)
+![output](in.jpeg)
 
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
