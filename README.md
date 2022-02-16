@@ -127,9 +127,9 @@ Insert image here
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
 
-![Mobile Robotics](https://youtu.be/rbgj0KuRmTE)
+
+![https://www.youtube.com/watch?v=rbgj0KuRmTE]
 
 
 ## Result:
